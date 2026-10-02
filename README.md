@@ -724,377 +724,87 @@ THM{c5a9d3e4147a13cbd1ca24b014466a6c}
 > 📌 **Below are all screenshots in sequential order.** Each image is a step-by-step walkthrough — follow them top to bottom to fully reproduce this **HARD-level** machine from recon to root.
 
 ---
-
 <div align="center">
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_21_04_33" src="https://github.com/user-attachments/assets/7e9bbca1-3c46-47ea-a28b-531b10315a58" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_21_53_44" src="https://github.com/user-attachments/assets/cfc82bc3-848d-4cb4-b40d-c093e7efe597" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_21_53_55" src="https://github.com/user-attachments/assets/119d9a10-4786-419c-b644-05dee0d4cb28" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_21_55_00" src="https://github.com/user-attachments/assets/59e7bc51-4a02-4531-950d-a02dd8e2a36b" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_01_46" src="https://github.com/user-attachments/assets/b16d6b76-b4aa-4bcf-9698-26a437ccab10" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_02_07" src="https://github.com/user-attachments/assets/60c914a9-60b7-4122-9652-94f10a4a38a8" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_04_34" src="https://github.com/user-attachments/assets/5dd5704e-5dd7-44fd-af05-d4f8191ea442" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_11_52" src="https://github.com/user-attachments/assets/665d272a-6356-4a74-960b-daef5242a8fa" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_36_54" src="https://github.com/user-attachments/assets/af8a6f1e-f150-4a5b-90d8-13d1d2ca6b18" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_36_57" src="https://github.com/user-attachments/assets/ac6923d8-43b8-4a36-b56d-7c8ba772b8d2" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_37_02" src="https://github.com/user-attachments/assets/a4ebd109-fc45-4ecf-bec8-83cc095c9e3e" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_37_07" src="https://github.com/user-attachments/assets/0349efff-c638-4a90-a083-036727811b9e" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_38_47" src="https://github.com/user-attachments/assets/4a07b79e-3589-4beb-bf22-79eb9aa3b6e8" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_46_42" src="https://github.com/user-attachments/assets/d41fd9b6-1d65-4b7f-8963-ec505663a933" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_47_06" src="https://github.com/user-attachments/assets/e5d87de8-6d87-4fe6-a600-87df3aeafb58" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_47_24" src="https://github.com/user-attachments/assets/5bb049e4-b968-4e6e-a96d-697c79800543" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_56_42" src="https://github.com/user-attachments/assets/7eadaa92-ba9a-4d9d-9389-55235f065aa9" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_56_48" src="https://github.com/user-attachments/assets/0bbc748e-61f5-44bc-b4ef-70933170b0d1" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_58_25" src="https://github.com/user-attachments/assets/4e248fdb-ff7d-4a47-978d-730239e77e97" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_22_59_43" src="https://github.com/user-attachments/assets/0347a4b8-8f63-4865-a4c9-de1d68abc3f1" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_09_47" src="https://github.com/user-attachments/assets/5ddf0f7b-7692-4c53-aa2b-0254e243cf1c" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_10_56" src="https://github.com/user-attachments/assets/9feb6d8f-800c-41a5-9602-cb2bda614ed1" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_11_19" src="https://github.com/user-attachments/assets/ce196546-10b8-4008-8e8d-9261978da6e7" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_12_18" src="https://github.com/user-attachments/assets/81247da3-85b9-4e65-958d-43adcc3507c1" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_24_31" src="https://github.com/user-attachments/assets/441862f2-e9ee-46f5-ae56-795e189d0a09" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_25_07" src="https://github.com/user-attachments/assets/80fb2fe8-a5e3-45da-bb56-ca29c9ab0104" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_25_22" src="https://github.com/user-attachments/assets/286007fb-4256-4987-963f-db34e0478e60" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_25_52" src="https://github.com/user-attachments/assets/cb701bf9-14bb-4311-a916-fdb6eef91261" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_26_24" src="https://github.com/user-attachments/assets/434bfffd-951f-497b-afeb-620147c99bed" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_26_44" src="https://github.com/user-attachments/assets/9c2fea8b-80fc-463c-850b-2893bc4644d3" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_26_56" src="https://github.com/user-attachments/assets/8c72e4e5-222a-4f30-8d00-ee971e898773" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_28_00" src="https://github.com/user-attachments/assets/573b25b5-4937-4629-8022-873452c4fa91" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_28_48" src="https://github.com/user-attachments/assets/8b686d59-b9f7-4033-92f2-86cd5405fa13" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_34_19" src="https://github.com/user-attachments/assets/8ad1c688-c51e-4c3d-a58e-64d4d9058edd" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_51_08" src="https://github.com/user-attachments/assets/c06a8043-9363-4f1e-886e-0bfa07b6bbe4" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_23_54_49" src="https://github.com/user-attachments/assets/0115a078-42ea-4fa7-a830-49577df3a55a" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_00_31" src="https://github.com/user-attachments/assets/8c6c11cd-fcd0-4f41-8f8e-be06d5cd7116" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_00_34" src="https://github.com/user-attachments/assets/ddf6cd1d-51cc-456e-aec2-96d4d475a57d" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_02_03" src="https://github.com/user-attachments/assets/a5f2fb81-3327-4e58-b886-498f93f44fe4" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_02_13" src="https://github.com/user-attachments/assets/11d83be2-9593-441f-abcb-f5ce595f9cca" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_04_14" src="https://github.com/user-attachments/assets/4d999dd5-563f-4246-a080-e534a39f5110" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_04_48" src="https://github.com/user-attachments/assets/059486fc-eda9-413c-8750-8ef5f6b4baf1" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_04_56" src="https://github.com/user-attachments/assets/df139419-f44e-43b6-86e0-f1533becdec3" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_07_30" src="https://github.com/user-attachments/assets/3856ba78-265b-490d-a930-99991a5ec787" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_07_34" src="https://github.com/user-attachments/assets/7f473937-f17c-4245-8372-6c55a6c43f02" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_07_41" src="https://github.com/user-attachments/assets/dad6b434-89ec-40f3-84ba-534ee809dd3a" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_08_08" src="https://github.com/user-attachments/assets/acb5b6ad-4959-4643-aed7-b448faf34620" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_11_50" src="https://github.com/user-attachments/assets/eafe5e95-a184-4d4a-ad1a-6f7fd4247661" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_14_02" src="https://github.com/user-attachments/assets/69bc4a7b-ce76-4550-abc1-7681a3d1c50e" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_18_12" src="https://github.com/user-attachments/assets/424e15ba-41ea-4f87-a450-5ab4dc888d16" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_19_45" src="https://github.com/user-attachments/assets/b2581991-221f-452a-9585-8a963c394935" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_19_52" src="https://github.com/user-attachments/assets/81f373e3-2668-4fbc-8a68-960f4b49b05b" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_21_33" src="https://github.com/user-attachments/assets/87dc3053-cb58-44a3-a265-b2ba56ec14d9" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_27_15" src="https://github.com/user-attachments/assets/8c08e4ee-1597-4511-8da8-1c3966468cac" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_28_56" src="https://github.com/user-attachments/assets/db6ce39e-d579-4225-9404-319f56ef23b9" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_29_19" src="https://github.com/user-attachments/assets/e955af01-24df-48f3-b555-0641505be0df" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_30_22" src="https://github.com/user-attachments/assets/82f21623-c60f-4c64-a0bf-3e08d76ce226" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_31_36" src="https://github.com/user-attachments/assets/9966b613-1765-4655-85c8-7928f4a99244" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_31_40" src="https://github.com/user-attachments/assets/4e18d5f7-84ee-40f0-a3c5-87c9b6421c90" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_32_55" src="https://github.com/user-attachments/assets/3eeb160a-2c9b-44aa-9d2d-11164a7b99bb" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_39_51" src="https://github.com/user-attachments/assets/f4893a54-8d27-42cc-ac9f-d9bed8168f08" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_41_29" src="https://github.com/user-attachments/assets/db033b6a-e43c-43ad-ac90-2a17c39c6e82" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_42_48" src="https://github.com/user-attachments/assets/a89e1eb4-ac9b-4422-beff-c9814dbc2364" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_43_08" src="https://github.com/user-attachments/assets/5a551602-fb0e-4d98-bd62-526c49b89d6f" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_44_34" src="https://github.com/user-attachments/assets/1ae9c096-a9a9-47e0-8740-b9188a5688dc" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_46_20" src="https://github.com/user-attachments/assets/1c53da54-3582-43ff-bcd2-faf5c3c4ed8b" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_48_33" src="https://github.com/user-attachments/assets/13c7ef47-5dca-4439-a0ec-9b44232e6517" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_53_21" src="https://github.com/user-attachments/assets/b156dcff-5547-4f6e-8391-9a9e46295dea" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_00_55_33" src="https://github.com/user-attachments/assets/283bc02d-24d8-4eeb-975b-1f2310a572b6" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_04_22" src="https://github.com/user-attachments/assets/615c2ef2-1a86-4e9a-a38c-67dbb802eefb" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_04_37" src="https://github.com/user-attachments/assets/ff40ca37-75bd-4481-a6c2-38b09c1aba06" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_04_46" src="https://github.com/user-attachments/assets/e064171d-a379-443f-96ec-0ce1aab32a51" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_04_55" src="https://github.com/user-attachments/assets/d8480915-b948-413d-9ddf-c9c01d225185" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_07_07" src="https://github.com/user-attachments/assets/6a4e66d1-6754-4603-8b84-0c63c4438e4d" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_07_15" src="https://github.com/user-attachments/assets/c2fecc7b-9f5f-4744-a991-b2bd979dee4e" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_08_52" src="https://github.com/user-attachments/assets/9b77d612-861c-455a-93a1-bd8fdadf645d" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_10_17" src="https://github.com/user-attachments/assets/2217f1b7-af81-4a86-aa2c-53ef5920c294" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_11_45" src="https://github.com/user-attachments/assets/ac00f15d-8434-4f52-8e9d-0c8c56b2480b" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-02_01_12_37" src="https://github.com/user-attachments/assets/eda47f5a-5dcf-4cd6-8760-fbd6bcf0dee5" />
 
-## 🔍 **STAGE 1 — RECONNAISSANCE**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 1: nmap full scan showing FTP 21 and HTTP 80 (WordPress 5.6) -->
-<img src="./images/01-nmap-scan.png" alt="Step 1a — Nmap Full Scan" width="900"/>
-
-**🖼️ Screenshot 1** — `nmap -sC -sV -p-` reveals FTP 21 & HTTP 80 (WordPress 5.6)
-
-</div>
-
----
-
-<div align="center">
-
-## 📂 **STAGE 2 — WEB ENUMERATION**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 2: adana.thm WordPress landing page -->
-<img src="./images/02-wordpress-home.png" alt="Step 2a — adana.thm WordPress Home" width="900"/>
-
-**🖼️ Screenshot 2** — `adana.thm` reveals a stock "Hello World" WordPress site
-
-<br><br>
-
-<!-- 📸 IMAGE 3: gobuster output showing /announcements/ -->
-<img src="./images/03-gobuster-announcements.png" alt="Step 2b — Gobuster Discovery" width="900"/>
-
-**🖼️ Screenshot 3** — `gobuster` discovers `/announcements/` directory
-
-<br><br>
-
-<!-- 📸 IMAGE 4: open /announcements/ directory listing with image + wordlist -->
-<img src="./images/04-announcements-listing.png" alt="Step 2c — Open Directory Listing" width="900"/>
-
-**🖼️ Screenshot 4** — Open directory listing with `australian-bulldog-ant.jpg` & `wordlist.txt`
-
-</div>
-
----
-
-<div align="center">
-
-## 🖼️ **STAGE 3 — STEGANOGRAPHY EXTRACTION**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 5: steghide info confirming embedded data -->
-<img src="./images/05-steghide-info.png" alt="Step 3a — Steghide Detection" width="900"/>
-
-**🖼️ Screenshot 5** — `steghide info` confirms embedded data in the image
-
-<br><br>
-
-<!-- 📸 IMAGE 6: stegseek cracking output with found passphrase -->
-<img src="./images/06-stegseek-crack.png" alt="Step 3b — StegSeek Crack" width="900"/>
-
-**🖼️ Screenshot 6** — `stegseek` brute-forces the passphrase `123adanaantinwar`
-
-<br><br>
-
-<!-- 📸 IMAGE 7: cat extracted .out file showing encoded creds -->
-<img src="./images/07-extracted-file.png" alt="Step 3c — Extracted File" width="900"/>
-
-**🖼️ Screenshot 7** — Extracted file contains Base64-looking encoded creds
-
-</div>
-
----
-
-<div align="center">
-
-## 🔐 **STAGE 4 — DECODING FTP CREDENTIALS**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 8: hashes.com decrypting the string -->
-<img src="./images/08-hashes-decode.png" alt="Step 4a — hashes.com Decode" width="900"/>
-
-**🖼️ Screenshot 8** — hashes.com decrypts to `hakanftp : 123adanacrack`
-
-</div>
-
----
-
-<div align="center">
-
-## 📡 **STAGE 5 — FTP ACCESS & WP-CONFIG.PHP LEAK**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 9: FTP login + directory listing -->
-<img src="./images/09-ftp-login.png" alt="Step 5a — FTP Login" width="900"/>
-
-**🖼️ Screenshot 9** — FTP login as `hakanftp`; full WordPress install visible
-
-<br><br>
-
-<!-- 📸 IMAGE 10: cat wp-config.php showing DB creds -->
-<img src="./images/10-wp-config-leak.png" alt="Step 5b — wp-config.php Leaked" width="900"/>
-
-**🖼️ Screenshot 10** — `wp-config.php` leaks `phpmyadmin : 12345`
-
-</div>
-
----
-
-<div align="center">
-
-## 💾 **STAGE 6 — PHPMYADMIN PIVOT & HIDDEN VHOST**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 11: gobuster on adana.thm showing /phpmyadmin/ -->
-<img src="./images/11-gobuster-phpmyadmin.png" alt="Step 6a — phpMyAdmin Discovered" width="900"/>
-
-**🖼️ Screenshot 11** — `gobuster` on vhost reveals `/phpmyadmin/`
-
-<br><br>
-
-<!-- 📸 IMAGE 12: phpMyAdmin login + two databases visible -->
-<img src="./images/12-phpmyadmin-dbs.png" alt="Step 6b — phpMyAdmin Databases" width="900"/>
-
-**🖼️ Screenshot 12** — phpMyAdmin reveals two databases: `phpmyadmin` & `phpmyadmin1`
-
-<br><br>
-
-<!-- 📸 IMAGE 13: wp_options.siteurl = subdomain.adana.thm -->
-<img src="./images/13-wp-options-siteurl.png" alt="Step 6c — Hidden Subdomain Found" width="900"/>
-
-**🖼️ Screenshot 13** — `wp_options` inside `phpmyadmin1` reveals **`subdomain.adana.thm`**
-
-<br><br>
-
-<!-- 📸 IMAGE 14: subdomain.adana.thm live in browser -->
-<img src="./images/14-subdomain-live.png" alt="Step 6d — Hidden Subdomain Live" width="900"/>
-
-**🖼️ Screenshot 14** — Hidden subdomain confirmed live: "Hello World — HAKANBEY"
-
-</div>
-
----
-
-<div align="center">
-
-## 💥 **STAGE 7 — FTP UPLOAD RCE**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 15: pentestmonkey php-reverse-shell prepared with attacker IP -->
-<img src="./images/15-shell-config.png" alt="Step 7a — Reverse Shell Configured" width="900"/>
-
-**🖼️ Screenshot 15** — Configuring `php-reverse-shell.php` with attacker IP + port
-
-<br><br>
-
-<!-- 📸 IMAGE 16: nc listener waiting -->
-<img src="./images/16-nc-listener.png" alt="Step 7b — Netcat Listener" width="900"/>
-
-**🖼️ Screenshot 16** — Starting the Netcat listener on port 4444
-
-<br><br>
-
-<!-- 📸 IMAGE 17: shell landing as www-data -->
-<img src="./images/17-wwwdata-shell.png" alt="Step 7c — www-data Shell" width="900"/>
-
-**🖼️ Screenshot 17** — Reverse shell landed as `www-data`
-
-</div>
-
----
-
-<div align="center">
-
-## 🚩 **STAGE 8 — WEB FLAG**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 18: cat wwe3bbfla4g.txt showing web flag -->
-<img src="./images/18-web-flag.png" alt="Step 8a — Web Flag Captured" width="900"/>
-
-**🖼️ Screenshot 18** — Web flag captured: `THM{343a7e2064a1d992c01ee201c346edff}`
-
-</div>
-
----
-
-<div align="center">
-
-## 🔄 **STAGE 9 — PIVOT TO HAKANFTP**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 19: script -qc + su hakanftp -->
-<img src="./images/19-pivot-hakanftp.png" alt="Step 9a — Pivot to hakanftp" width="900"/>
-
-**🖼️ Screenshot 19** — PTY spawned, then `su hakanftp` for a proper shell
-
-<br><br>
-
-<!-- 📸 IMAGE 20: hakanftp home directory showing sucrack source + wordlist -->
-<img src="./images/20-hakanftp-home.png" alt="Step 9b — hakanftp Home Contents" width="900"/>
-
-**🖼️ Screenshot 20** — `source-sucrack.tar.gz` + `wordlist.txt` in `hakanftp`'s home
-
-</div>
-
----
-
-<div align="center">
-
-## 🔨 **STAGE 10 — BUILDING SUCRACK**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 21: ./configure + make output for sucrack -->
-<img src="./images/21-sucrack-build.png" alt="Step 10a — sucrack Build" width="900"/>
-
-**🖼️ Screenshot 21** — `./configure && make` builds the `sucrack` binary
-
-</div>
-
----
-
-<div align="center">
-
-## 🔓 **STAGE 11 — CRACKING HAKANBEY**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 22: sucrack running with 100 threads -->
-<img src="./images/22-sucrack-run.png" alt="Step 11a — sucrack Cracking" width="900"/>
-
-**🖼️ Screenshot 22** — `./sucrack -w 100 -u hakanbey wordlist2.txt` running
-
-<br><br>
-
-<!-- 📸 IMAGE 23: sucrack output showing password found -->
-<img src="./images/23-sucrack-cracked.png" alt="Step 11b — Password Cracked" width="900"/>
-
-**🖼️ Screenshot 23** — Password cracked: `123adanasubaru`
-
-<br><br>
-
-<!-- 📸 IMAGE 24: su hakanbey + cat user.txt -->
-<img src="./images/24-user-flag.png" alt="Step 11c — User Flag Captured" width="900"/>
-
-**🖼️ Screenshot 24** — User flag captured: `THM{8ba9d7715fe726332b7fc9bd00e67127}`
-
-</div>
-
----
-
-<div align="center">
-
-## 🧬 **STAGE 12 — SUID BINARY REVERSE ENGINEERING**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 25: find / -perm -u=s showing /usr/bin/binary -->
-<img src="./images/25-suid-enum.png" alt="Step 12a — SUID Enumeration" width="900"/>
-
-**🖼️ Screenshot 25** — `find / -perm -u=s` reveals custom `/usr/bin/binary`
-
-<br><br>
-
-<!-- 📸 IMAGE 26: strings /usr/bin/binary output -->
-<img src="./images/26-strings-binary.png" alt="Step 12b — strings on binary" width="900"/>
-
-**🖼️ Screenshot 26** — `strings` reveals hint strings: `/root/hint.txt`, `/root/root.jpg`
-
-<br><br>
-
-<!-- 📸 IMAGE 27: ltrace reconstructing "warzoneinadana" via strcat -->
-<img src="./images/27-ltrace-binary.png" alt="Step 12c — ltrace Reconstructs String" width="900"/>
-
-**🖼️ Screenshot 27** — `ltrace` reconstructs `warzoneinadana` via strcat calls
-
-<br><br>
-
-<!-- 📸 IMAGE 28: running binary with correct string → hint message -->
-<img src="./images/28-binary-hint.png" alt="Step 12d — Binary Hint Unlocked" width="900"/>
-
-**🖼️ Screenshot 28** — Binary hint: "Hexeditor 00000020 → CyberChef"
-
-</div>
-
----
-
-<div align="center">
-
-## 🔢 **STAGE 13 — CYBERCHEF DECODE → ROOT CREDS**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 29: hex editor showing bytes at offset 0x20 -->
-<img src="./images/29-hex-offset.png" alt="Step 13a — Hex Editor at Offset 0x20" width="900"/>
-
-**🖼️ Screenshot 29** — Hex editor showing 16 bytes at offset `0x00000020`
-
-<br><br>
-
-<!-- 📸 IMAGE 30: CyberChef recipe From Hex → To Base85 -->
-<img src="./images/30-cyberchef-recipe.png" alt="Step 13b — CyberChef Recipe" width="900"/>
-
-**🖼️ Screenshot 30** — CyberChef: `From Hex` → `To Base85` → `root:Go0odJo0BbBro0o`
-
-</div>
-
----
-
-<div align="center">
-
-## 👑 **STAGE 14 — ROOT FLAG**
-
-</div>
-
-<div align="center">
-
-<!-- 📸 IMAGE 31: su root success + whoami -->
-<img src="./images/31-su-root.png" alt="Step 14a — su root" width="900"/>
-
-**🖼️ Screenshot 31** — `su root` with recovered password → root shell
-
-<br><br>
-
-<!-- 📸 IMAGE 32: cat root.txt -->
-<img src="./images/32-root-flag.png" alt="Step 14b — Root Flag Captured" width="900"/>
-
-**🖼️ Screenshot 32** — Root flag captured: `THM{c5a9d3e4147a13cbd1ca24b014466a6c}`
-
-<br><br>
-
-<!-- 📸 IMAGE 33: room 100% complete -->
-<img src="./images/33-room-complete.png" alt="Step 14c — Room 100% Complete" width="900"/>
-
-**🖼️ Screenshot 33** — Room completed at 100% ✅
-
-</div>
-
----
 
 <div align="center">
 
